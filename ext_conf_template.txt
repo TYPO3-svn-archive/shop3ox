@@ -1,0 +1,8 @@
+  # cat=basic/enable/01; type=boolean; label=PayPal Enabled: Enable PayPal Website Payments Standard
+paypal_enabled = 1
+
+  # cat=basic/enable/01; type=boolean; label=PayPal Sandbox: Enable PayPal Sandbox for testing
+paypal_sandbox = 1
+
+  # cat=basic; type=string; label= PayPal Business account: You must insert a Business account to represent a merchant.
+paypal_account = paypalacc@web.com
